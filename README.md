@@ -1,5 +1,4 @@
 ## Hi there 👋
-## Hi there 👋
 I'm a Software Engineering Masters student. I work on my own projects mostly. you might see contributions here and there.
 
 ![My Skills](https://skillicons.dev/icons?i=c,java,spring,javascript,powershell,html,css,docker,gcp,git,github,stackoverflow,vscode,eclipse,idea&theme=dark)
